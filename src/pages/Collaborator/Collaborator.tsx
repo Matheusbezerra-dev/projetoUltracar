@@ -1,4 +1,4 @@
-export default function PostCollaborator(): JSX.Element {
+export default function Collaborator(): JSX.Element {
   return (
     <div>PostCollaborator</div>
   )

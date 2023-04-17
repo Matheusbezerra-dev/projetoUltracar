@@ -3,10 +3,9 @@ import logo from '../../images/cabecalho.png';
 import Hamburgue from "../Hamburguer/Hamburguer";
 import { ContainerHeader, ImgLogo } from "./HeaderStyle";
 
-export default function Header() {
+export default function Header(): JSX.Element {
   
-  return (
-  
+  return (  
     <ContainerHeader>
       <Link 
         to='/'

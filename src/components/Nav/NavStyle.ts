@@ -14,7 +14,7 @@ export const ContainerNav = styled.nav`
       opacity:0.5;
     }
   }
-
+ 
   @media (max-width: 750px){
     max-width: 100%;    
     flex-flow: column nowrap;

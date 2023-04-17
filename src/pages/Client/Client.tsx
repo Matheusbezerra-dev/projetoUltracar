@@ -1,4 +1,4 @@
-export default function PostClient(): JSX.Element {
+export default function Client(): JSX.Element {
   return (
     <div>PostClient</div>
   )
