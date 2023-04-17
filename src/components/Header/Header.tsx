@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import logo from '../../img/logoMiraiTest1.svg';
+import logo from '../../images/cabecalho.png';
 import Hamburgue from "../Hamburguer/Hamburguer";
 import { ContainerHeader, ImgLogo } from "./HeaderStyle";
 

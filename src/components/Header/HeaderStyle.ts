@@ -5,7 +5,7 @@ export const ContainerHeader = styled.header`
   justify-content: space-between;
   align-items: center;
   height: 4rem;
-  background-color: rgb(23, 34 ,46);
+  background-color: rgb(32,43 ,87);
   border-bottom: 2px solid rgb(145,170,166);
 `;
 

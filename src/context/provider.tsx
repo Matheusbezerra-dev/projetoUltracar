@@ -11,8 +11,8 @@ const provider = ({ children }: { children: ReactNode}) => {
 
   return (
     <providerFile.Provider value={ contextObj }>
-        {children}
-      </providerFile.Provider>
+      {children}
+    </providerFile.Provider>
   );
 }
 

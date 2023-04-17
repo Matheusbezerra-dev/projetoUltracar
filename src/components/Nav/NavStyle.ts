@@ -15,10 +15,10 @@ export const ContainerNav = styled.nav`
     }
   }
 
-  @media (max-width: 550px){
+  @media (max-width: 750px){
     max-width: 100%;    
     flex-flow: column nowrap;
-    background-color: rgb(23, 34 ,46);
+    background-color:  rgb(32,43 ,87);
     position: fixed;
     overflow: hidden;
     transform: ${({ open }: {open: boolean}) => open ? 'translateX(0)' : 'translateX(100%)'};
